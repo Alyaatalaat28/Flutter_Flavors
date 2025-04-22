@@ -4,7 +4,8 @@ A production-ready implementation of Flutter flavors for managing multiple envir
 
 ## 📖 Learn More
 For a complete guide to Flutter flavors, check out my in-depth article:  
-[**Mastering Flutter Flavors: A Comprehensive Guide**]([https://medium.com/your-article-link](https://medium.com/@alyaatalaat205/understanding-flavors-in-flutter-a-step-by-step-guide-153b96e506af))
+[**Mastering Flutter Flavors: A Comprehensive Guide**](https://medium.com/@alyaatalaat205/understanding-flavors-in-flutter-a-step-by-step-guide-153b96e506af)
+
 
 ## 🚀 Key Features
 - Pre-configured flavor system for Android & iOS
