@@ -100,9 +100,9 @@ lib/
 ├── main_staging.dart  # Staging environment entry
 ├── main_prod.dart     # Production environment entry
 └── config/
-    ├── dev.dart       # Dev configurations
+    ├── development.dart       # Dev configurations
     ├── staging.dart   # Staging configurations
-    └── prod.dart      # Production configurations
+    └── production.dart      # Production configurations
 ```
 
 ## 🛠 Troubleshooting
